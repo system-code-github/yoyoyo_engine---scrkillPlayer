@@ -17,7 +17,7 @@ if there are some bugs with the code, please call me!
 
 //README: you must create 3 sounds: musDeath1, musDeath2, musDeath3!
 
-var mus, music; //create a random value
+var mus, music; //init a random number variable
 
 mus = irandom_range(1,3);
 
