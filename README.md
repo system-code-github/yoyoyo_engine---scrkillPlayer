@@ -1,5 +1,5 @@
 # yoyoyo_engine---scrkillPlayer
-random death sound kill player script
+a kill player script with random sound for GM8 or GMS yoyoyo IWBTG engine
 
 # Informations
 
